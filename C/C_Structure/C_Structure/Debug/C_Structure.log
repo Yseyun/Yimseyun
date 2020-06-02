@@ -1,7 +1,0 @@
-﻿  C_STR.cpp
-c:\users\seyuns\desktop\프로젝트 모음\c언어\c_structure\c_structure\c_str.cpp(7): error C2143: 구문 오류: ']'이(가) '상수' 앞에 없습니다.
-c:\users\seyuns\desktop\프로젝트 모음\c언어\c_structure\c_structure\c_str.cpp(7): error C3260: '상수': 람다 본문 전에 예상치 않은 토큰을 건너뜁니다.
-c:\users\seyuns\desktop\프로젝트 모음\c언어\c_structure\c_structure\c_str.cpp(12): error C3493: 지정된 기본 캡처 모드가 없기 때문에 'data'을(를) 암시적으로 캡처할 수 없습니다.
-c:\users\seyuns\desktop\프로젝트 모음\c언어\c_structure\c_structure\c_str.cpp(14): error C2440: '초기화 중': 'int'에서 'int [10]'(으)로 변환할 수 없습니다.
-  c:\users\seyuns\desktop\프로젝트 모음\c언어\c_structure\c_structure\c_str.cpp(14): note: 참조 또는 배열에 대한 포인터로의 변환은 있지만 배열 형식으로의 변환은 없습니다.
-c:\users\seyuns\desktop\프로젝트 모음\c언어\c_structure\c_structure\c_str.cpp(14): error C2143: 구문 오류: ';'이(가) '}' 앞에 없습니다.
